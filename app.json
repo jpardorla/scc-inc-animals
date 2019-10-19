@@ -1,0 +1,16 @@
+{
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ],
+  "env": {
+  },
+  "formation": {
+  },
+  "name": "scc-inc-animals",
+  "scripts": {
+  },
+  "stack": "heroku-18"
+}
